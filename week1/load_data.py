@@ -4,7 +4,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 import requests
 
-from week1.config import (
+from config import (
     TAXI_ZONES_URL,
     TAXI_ZONES_TABLE,
     TAXI_URL,
