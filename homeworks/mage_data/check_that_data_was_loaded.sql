@@ -1,0 +1,1 @@
+SELECT DISTINCT(gt.vendor_id) FROM magic.green_taxi gt;
